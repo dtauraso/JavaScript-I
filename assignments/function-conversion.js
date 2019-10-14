@@ -52,3 +52,12 @@ console.log("done with arrow syntax assn")
 //   return num * 3;
 // });
 // console.log(triple);
+
+console.log("start of arrow syntax stretch goal")
+
+// ES6 arrow syntax
+exampleArray = [1,2,3,4];
+const triple = exampleArray.map((num) => num * 3);
+console.log(triple);
+
+console.log("end of arrow syntax stretch goal")
