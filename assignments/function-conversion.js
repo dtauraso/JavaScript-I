@@ -43,6 +43,7 @@ let myFunction2 = () => {
   };
   subtract2(1,2);
   
+console.log("done with arrow syntax assn")
 
 // Stretch
 
